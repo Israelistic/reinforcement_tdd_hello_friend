@@ -20,7 +20,7 @@ class TestFriend < MiniTest::Test
     # Hint: remember default argument values?
     #
     # def greet(name = ?)
-    #   # your code here
+    #
     # end
-  end
+    end
 end
